@@ -37,4 +37,11 @@ Full Stack Developer - Frontend Focused - with a bachelor degree in Graphic Desi
 	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 	 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisandroman)](https://github.com/anuraghazra/github-readme-stats)
+<h3>:iphone: Connect with me:</h3>
+<div align="center">
+ 
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisandro-mansilla/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lisandromansilla.dg@gmail.com)
+ 
+</div>
