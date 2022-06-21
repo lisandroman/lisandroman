@@ -38,9 +38,9 @@ Full Stack Developer - Frontend Focused - with a bachelor degree in Graphic Desi
 	 </p>
 	 
  ### :file_folder: Featured Projects:
- <div align="center">
+ <div>
 
-  [<img src="https://i.imgur.com/ggaxN9V.jpg" width="250" height="200"/>](https://overflow-frontend.vercel.app/)
+  [<img src="https://i.imgur.com/lTqpLKc.png" width="250" height="200"/>](https://overflow-frontend.vercel.app/)
   [<img src="https://i.imgur.com/Z9nF47a.png" width="250" height="200"/>](https://wooden-toys.netlify.app/)
   
  </div>
