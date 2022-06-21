@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Lisandro 🇦🇷🇮🇱
+### Hi there 👋  I'm Lisandro 🇦🇷🇮🇱
 
 <!--
 **lisandroman/lisandroman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Full Stack Developer - Frontend Focused - with a bachelor degree in Graphic Design. I have 2+ years of experience with React and a few years as UI Developer working with JavaScript | HTML | CSS. I'm continuously learning new technologies and improving my skills 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
