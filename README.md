@@ -36,7 +36,14 @@ Full Stack Developer - Frontend Focused - with a bachelor degree in Graphic Desi
 	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 	 </p>
+	 
+ ### :file_folder: Featured Projects:
+ <div align="center">
 
+  [<img src="https://i.imgur.com/ggaxN9V.jpg" width="250" height="200"/>](https://overflow-frontend.vercel.app/)
+  [<img src="https://i.imgur.com/Z9nF47a.png" width="250" height="200"/>](https://wooden-toys.netlify.app/)
+  
+ </div>
 <h3>:iphone: Connect with me:</h3>
  
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisandro-mansilla/)
